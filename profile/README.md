@@ -21,7 +21,7 @@ Esta es la organización oficial del canal de Youtube [NelsonCode](https://www.y
 ### Si quieres ayudar monetariamente el proyecto
 
 - [PayPal](https://www.paypal.com/paypalme/nelsonher019)
-
+- [Strike](https://strike.me/nelsoncode/)
 
 <details>
 <summary>👀</summary>
