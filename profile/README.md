@@ -1,6 +1,6 @@
 ## Hola 👋
 
-Esta es la organización oficial del canal de Youtube [NelsonCode](https://www.youtube.com/c/NelsonCode), espero encuentres ayuda con los repositorios públicos 🤎
+Esta es la organización oficial del canal de Youtube [NelsonCode](https://www.youtube.com/c/NelsonCode), espero encuentres ayuda con los repositorios públicos 🤎.
 
 ### Recuerda seguirme en mis redes sociales
 
