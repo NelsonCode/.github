@@ -19,6 +19,7 @@ Esta es la organización oficial del canal de Youtube [NelsonCode](https://www.y
 - [GitHub](https://www.github.com/nelsoncode019)
 - [GitLab](https://www.gitlab.com/nelsoncode)
 - [TikTok](https://www.tiktok.com/@nelsoncode)
+- [Twitch](https://www.twitch.tv/nelsoncode_)
 
 ### Si quieres ayudar monetariamente el proyecto
 
